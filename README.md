@@ -29,3 +29,7 @@ horizontalLineToRelative(2.0f)
 verticalLineToRelative(2.0f)
 close()
 ```
+
+Result:
+
+![SAMPLE](SAMPLE.png) 
