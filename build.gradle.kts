@@ -11,7 +11,10 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib")
+    testImplementation("org.jetbrains.kotlin:kotlin-test")
+
     implementation("org.simpleframework:simple-xml:2.7.1")
+
     testImplementation("org.junit.jupiter:junit-jupiter:5.8.2")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.8.2")
 }
