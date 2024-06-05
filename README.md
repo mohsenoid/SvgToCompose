@@ -35,5 +35,4 @@ Result:
 ![SAMPLE](SAMPLE.png) 
 
 ## Discontinued
-I stopped working on this repo cause I learned that there is already another project as an Android Studio plugin which does:
-https://github.com/DevSrSouza/svg-to-compose
+This project has been discontinued because I found another working project as an Android Studio plugin that does exactly what I was trying to do: https://github.com/DevSrSouza/svg-to-compose
